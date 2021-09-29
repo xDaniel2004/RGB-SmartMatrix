@@ -1,6 +1,6 @@
 # RGB-SmartMatrix
 RGB SmartMatrix SPL3
-Die SmartMatrix Library wurde entwickelt, um HUB75-LED-Matrix-Panels und APA102-kompatible adressierbare LEDs mit hochwertigen Grafiken unter Verwendung von Raspberry aufzufrischen.
+Die SmartMatrix Library wurde entwickelt, um HUB75-LED-Matrix-Panels und APA102-kompatible adressierbare LEDs mit hochwertigen Grafiken unter Verwendung von RaspberryPI. 
 
 Software: Die RGB Matrix class, SmartMatrix library, 
 
